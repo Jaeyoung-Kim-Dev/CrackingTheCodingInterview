@@ -39,7 +39,5 @@ public class Q1_3 {
 			else
 				System.out.print(letter[i]);
 		}
-
 	}
-
 }
